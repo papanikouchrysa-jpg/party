@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header{
+
+    background-color:lightblue;
+    color: midnightblue;
+    
+
+}
+
+
+
+header a{
+
+background-color: white;
+margin:10px;
+padding:10px;
+border-radius:20%;
+
+}
+
+
+
+header{
+    color:white;
+
+}
+
+
+h1{
+     text-align:center;
+     color:rebeccapurple;
+     border: 2px solid darkslateblue;
+}
